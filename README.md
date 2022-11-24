@@ -24,10 +24,10 @@
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
-https://github.com/Sphinxzzzz/zimbot-v4
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sphinxzzzz/zimbot-v4)
 
 ## BUILD PACKS
 
