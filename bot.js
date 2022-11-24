@@ -35,15 +35,15 @@ global.APIKeys = {
 //settings
 global.owner = ['27634090203',''] //owner number +916398118678
 global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
+global.pemilik = ['27634090203'] //owner number +916398118678
+global.premium = ['27634090203'] //premium number +916398118678
+global.pengguna = 'Mrityu' //username
 global.footer = 'Thakur'
 global.botnma = 'Thakur Sahab' //bot name
 global.botname = 'Thakur Sahab'
 global.ownernma = 'Thakur Sahab' //owner name
 global.packname = 'Thakur Sahab' //sticker package name
-global.author = 'By Mrityu' //sticker author name
+global.author = 'Mrityu' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇮🇳'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -72,21 +72,21 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Ara Ara Senpai!',
     admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    botAdmin: '*Banana must be admin first!*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
+    wait: '*Stopa stopa Banana*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000 //free user limit
+    free: 100000000000 //free user limit
 }
 global.rpg = {
 darahawal: 100,
