@@ -33,12 +33,12 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +916398118678
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +916398118678
-global.premium = ['27634090203'] //premium number +916398118678
+global.owner = ['916398118678',''] //owner number 
+global.wame = ['916398118678'] 
+global.pemilik = ['916398118678'] //owner number 
+global.premium = ['916398118678'] //premium number 
 global.pengguna = 'Mrityu' //username
-global.footer = 'Thakur'
+global.footer = 'Thakur Sahab'
 global.botnma = 'Thakur Sahab' //bot name
 global.botname = 'Thakur Sahab'
 global.ownernma = 'Thakur Sahab' //owner name
@@ -75,7 +75,7 @@ global.mess = {
     success: 'Ara Ara Senpai!',
     admin: '*This feature is only for admin!*',
     botAdmin: '*Banana must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
+    owner: '*this feature is only for Thakur Sahab*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
@@ -86,7 +86,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100000000000 //free user limit
+    free: Infinity //free user limit
 }
 global.rpg = {
 darahawal: 100,
