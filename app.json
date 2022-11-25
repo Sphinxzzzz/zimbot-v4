@@ -1,6 +1,6 @@
 {
-  "name": "Zim Bot Inc",
-  "description": "whatsapp md bot build with nodejs",
+  "name": "Thakur Sahab",
+  "description": "Ara Ara senpaii!",
   "repository": "https://github.com/zim-bot/zimbot-v4",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
@@ -15,7 +15,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
-        "required": true
+        "required": false
       }
     },
   "buildpacks": [
